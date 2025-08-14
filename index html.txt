@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to WIT</title>
+</head>
+<body>
+  <h1>Welcome to Western Institute of Technology</h1>
+  <p>This is our informational website. Built using Azure Static Web Apps!</p>
+  <a href="about.html">About Us</a>
+</body>
+</html>

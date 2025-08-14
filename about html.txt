@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About WIT</title>
+</head>
+<body>
+  <h1>About Western Institute of Technology</h1>
+  <p>WIT is a polytechnic college focused on technical and vocational education.</p>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>
